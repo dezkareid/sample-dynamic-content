@@ -1,0 +1,11 @@
+.container {
+	display: flex;
+}
+
+.list {
+	width: 50%;
+}
+
+.list__item {
+	list-style: none;
+}

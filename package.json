@@ -1,0 +1,16 @@
+{
+  "name": "dynamic-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "faker": "json-server --watch api.json --port 3001",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joel Humberto Gómez Paredes <elmaildeldezkareid@gmail.com> (https://twitter.com/DezkaReid)",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.12.1"
+  }
+}
